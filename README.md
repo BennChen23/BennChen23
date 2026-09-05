@@ -40,8 +40,8 @@
 
 </div>
 
-| 段階 | | |
-|:--:|:--|:--|
+| 段階 | 読み | 意味 ・ Meaning |
+|:--:|:--:|:--|
 | **守** | *Shu* | Learn the fundamentals properly, exactly as taught. |
 | **破** | *Ha* | Break them apart to understand **why** they hold. |
 | **離** | *Ri* | Leave the form behind and build something of your own. |
@@ -150,26 +150,6 @@ More in my [repositories →](https://github.com/BennChen23?tab=repositories)
 <img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,aws,vercel,supabase,git,github,vscode&theme=dark" alt="Linux, Bash, PowerShell, Docker, AWS, Vercel, Supabase, Git, GitHub, VS Code" />
 
 <br/>
-
-── ・ ── ・ ── ✦ ── ・ ── ・ ──
-
-</div>
-
-## 記録　Stats
-
-<div align="center">
-
-<!--
-Generated daily by .github/workflows/stats-cards.yml and committed into
-this repo, so they load instantly and can never rate-limit or 503.
-These will show as broken until the workflow has run once:
-Actions tab -> "Generate stats cards" -> Run workflow.
--->
-
-<img height="160" src="./profile/stats.svg" alt="GitHub stats" />
-<img height="160" src="./profile/top-langs.svg" alt="Most used languages" />
-
-<br/><br/>
 
 ── ・ ── ・ ── ✦ ── ・ ── ・ ──
 
