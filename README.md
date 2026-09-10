@@ -1,6 +1,6 @@
 <div align="center">
 
-# 鍵　Benn
+# Benn Chen
 
 **サイバーセキュリティ学生 ・ Cybersecurity Undergraduate, Year 2**
 
